@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/harishportfolio/static/css/main.c55bdca2.css",
+    "main.js": "/harishportfolio/static/js/main.c3d5513d.js",
+    "static/media/HeroImages.jpg": "/harishportfolio/static/media/HeroImages.4d88f3ee2a174480c8b7.jpg",
+    "index.html": "/harishportfolio/index.html",
+    "main.c55bdca2.css.map": "/harishportfolio/static/css/main.c55bdca2.css.map",
+    "main.c3d5513d.js.map": "/harishportfolio/static/js/main.c3d5513d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c55bdca2.css",
+    "static/js/main.c3d5513d.js"
+  ]
+}
