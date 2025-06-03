@@ -15,7 +15,7 @@ import {
   SocialMediaIcon,
   ResumeButton,
 } from "./HeroStyle";
-import HeroImg from "../images/HeroImages.jpg";
+import HeroImg from "../images/Home-Harish.JPG";
 import Typewriter from "typewriter-effect";
 import { Bio } from "../data/Constants";
 

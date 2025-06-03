@@ -63,9 +63,25 @@ export const experiences = [
   {
     id: 0,
     img: "",
-    role: "UI/UX Developer",
+    role: "Reactjs Developer",
     company: "Webware.io",
-    date: "Aug 2019 - Present",
+    date: "June 2023 - Present",
+    desc: "",
+    skills: [
+      "Reactjs",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "TypeScript",
+      "Material UI",
+    ],
+  },
+  {
+    id: 0,
+    img: "",
+    role: "Frontend Developer",
+    company: "Webware.io",
+    date: "Aug 2019 - June 2023",
     desc: "",
     skills: [
       "HTML",
@@ -83,14 +99,7 @@ export const experiences = [
     company: "Minskpay",
     date: "Jan 2019 - July 2019",
     desc: "",
-    skills: [
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "TypeScript",
-      "Material UI",
-      "Bootstrap",
-    ],
+    skills: ["HTML", "CSS", "JavaScript", "Bootstrap"],
   },
 ];
 
